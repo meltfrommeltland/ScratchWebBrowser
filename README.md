@@ -1,5 +1,6 @@
 # ScratchWebBrowser
-Browsing the web but in Scratch? You know, that programming language people call worthless?
+Browsing the web but in Scratch? You know, that programming language people call worthless?  
+Scratch Web Browser+ supports HTML, Scratch Web Browser does not. That is the difference. (oh, and SWB+ has the navbar on the bottom unlike SWB, which has it on the top)
 
 ## Changelog for 1.0
 ```
