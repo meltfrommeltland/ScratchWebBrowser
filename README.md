@@ -2,9 +2,9 @@
 Browsing the web but in Scratch? You know, that programming language people call worthless?  
 Scratch Web Browser+ supports HTML, Scratch Web Browser does not. That is the difference. (oh, and SWB+ has the navbar on the bottom unlike SWB, which has it on the top)
 
-## Changelog for 1.0
+## Changelog for 1.1
 ```
-Literally everything.
++ Resolve issue #2 (Switch URL fetcher from fetching the plain URL to https://api.allorigins.win/)
 ```
 ## Changelog for 1.0+
 ```
