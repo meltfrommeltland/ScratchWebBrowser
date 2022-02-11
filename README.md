@@ -8,7 +8,7 @@ Scratch Web Browser+ supports HTML, Scratch Web Browser does not. That is the di
 ```
 ## Changelog for 1.0+
 ```
-Literally everything.
++ Literally everything.
 ```
 ## How To Open
 ### Scratch Web Browser 1.0
